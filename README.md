@@ -6,3 +6,6 @@
 - Create App Preferences
 - Create OAuth client
 - Set client Oauth in webapp parameters
+- Update preferences of plateform
+- Create hosting organization
+- Create will type
